@@ -1,12 +1,13 @@
 {
-  "geode": "geode",
+  "geode": "6.0.0-alpha.2",
   "gd": {
-    "win": "2.2091",
+    "win": "2.2091"
   },
-  "id": "cavani2012.primer-mod",
-  "name": "Primer-mod",
+  "id": "cavani2012.primermod",
+  "name": "Primermod",
   "version": "1.0.0",
   "developer": "Cavani2012",
+  "description": "A button in the main menu",
   "dependencies": {
     "geode.node-ids": ">=v1.23.4"
   }
